@@ -1,1 +1,2214 @@
-{}
+{
+  "T_154": {
+    "1A": [
+      {
+        "course": "Band - High ",
+        "student_count": 4
+      }
+    ],
+    "1B": [
+      {
+        "course": "Band - High ",
+        "student_count": 3
+      }
+    ],
+    "2A": [
+      {
+        "course": "Band - High ",
+        "student_count": 1
+      }
+    ],
+    "2B": [
+      {
+        "course": "Band - High ",
+        "student_count": 2
+      }
+    ],
+    "3": [
+      {
+        "course": "Band - High ",
+        "student_count": 2
+      }
+    ],
+    "4A": [
+      {
+        "course": "Band - High ",
+        "student_count": 5
+      }
+    ],
+    "4B": [
+      {
+        "course": "Band - High ",
+        "student_count": 2
+      }
+    ]
+  },
+  "T_804": {
+    "1A": [
+      {
+        "course": "Chorus - High ",
+        "student_count": 3
+      }
+    ],
+    "1B": [
+      {
+        "course": "Chorus - High ",
+        "student_count": 1
+      }
+    ],
+    "2A": [
+      {
+        "course": "Chorus - High ",
+        "student_count": 1
+      }
+    ],
+    "2B": [
+      {
+        "course": "Chorus - High ",
+        "student_count": 4
+      }
+    ],
+    "3": [
+      {
+        "course": "Chorus - High ",
+        "student_count": 1
+      }
+    ],
+    "4A": [
+      {
+        "course": "Chorus - High ",
+        "student_count": 3
+      }
+    ],
+    "4B": [
+      {
+        "course": "Chorus - High ",
+        "student_count": 3
+      }
+    ]
+  },
+  "T_367": {
+    "1A": [
+      {
+        "course": "Drawing and Painting",
+        "student_count": 4
+      }
+    ],
+    "1B": [
+      {
+        "course": "Drawing and Painting",
+        "student_count": 1
+      }
+    ],
+    "2A": [
+      {
+        "course": "Drawing and Painting",
+        "student_count": 2
+      }
+    ],
+    "2B": [
+      {
+        "course": "Drawing and Painting",
+        "student_count": 2
+      }
+    ],
+    "3": [
+      {
+        "course": "Drawing and Painting",
+        "student_count": 3
+      }
+    ],
+    "4A": [
+      {
+        "course": "Drawing and Painting",
+        "student_count": 6
+      }
+    ],
+    "4B": [
+      {
+        "course": "Drawing and Painting",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_753": {
+    "3": [
+      {
+        "course": "Studio Art I",
+        "student_count": 1
+      }
+    ],
+    "4A": [
+      {
+        "course": "Studio Art I",
+        "student_count": 1
+      }
+    ],
+    "4B": [
+      {
+        "course": "Studio Art I",
+        "student_count": 2
+      }
+    ],
+    "1A": [
+      {
+        "course": "American Literature Honors",
+        "student_count": 2
+      }
+    ],
+    "1B": [
+      {
+        "course": "American Literature Honors",
+        "student_count": 5
+      }
+    ],
+    "2A": [
+      {
+        "course": "American Literature Honors",
+        "student_count": 1
+      }
+    ],
+    "2B": [
+      {
+        "course": "American Literature Honors",
+        "student_count": 3
+      }
+    ]
+  },
+  "T_569": {
+    "1B": [
+      {
+        "course": "Studio Art II",
+        "student_count": 3
+      }
+    ],
+    "2A": [
+      {
+        "course": "Studio Art II",
+        "student_count": 3
+      }
+    ],
+    "2B": [
+      {
+        "course": "Studio Art II",
+        "student_count": 1
+      }
+    ],
+    "3": [
+      {
+        "course": "Studio Art II",
+        "student_count": 1
+      }
+    ],
+    "4A": [
+      {
+        "course": "Studio Art II",
+        "student_count": 1
+      }
+    ],
+    "4B": [
+      {
+        "course": "Studio Art II",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_511": {
+    "1A": [
+      {
+        "course": "Bible 10",
+        "student_count": 9
+      }
+    ],
+    "1B": [
+      {
+        "course": "Bible 10",
+        "student_count": 8
+      }
+    ],
+    "2A": [
+      {
+        "course": "Bible 10",
+        "student_count": 8
+      }
+    ],
+    "2B": [
+      {
+        "course": "Bible 10",
+        "student_count": 1
+      }
+    ],
+    "3": [
+      {
+        "course": "Bible 10",
+        "student_count": 5
+      }
+    ],
+    "4A": [
+      {
+        "course": "Bible 10",
+        "student_count": 4
+      }
+    ],
+    "4B": [
+      {
+        "course": "Bible 10",
+        "student_count": 5
+      }
+    ]
+  },
+  "T_169": {
+    "1A": [
+      {
+        "course": "Bible 11",
+        "student_count": 8
+      }
+    ],
+    "1B": [
+      {
+        "course": "Bible 11",
+        "student_count": 5
+      }
+    ],
+    "2A": [
+      {
+        "course": "Bible 11",
+        "student_count": 6
+      }
+    ],
+    "2B": [
+      {
+        "course": "Bible 11",
+        "student_count": 6
+      }
+    ],
+    "3": [
+      {
+        "course": "Bible 11",
+        "student_count": 8
+      }
+    ],
+    "4A": [
+      {
+        "course": "Bible 11",
+        "student_count": 6
+      }
+    ],
+    "4B": [
+      {
+        "course": "Bible 11",
+        "student_count": 2
+      }
+    ]
+  },
+  "T_303": {
+    "1A": [
+      {
+        "course": "Bible 12",
+        "student_count": 4
+      }
+    ],
+    "1B": [
+      {
+        "course": "Bible 12",
+        "student_count": 12
+      }
+    ],
+    "2A": [
+      {
+        "course": "Bible 12",
+        "student_count": 7
+      }
+    ],
+    "2B": [
+      {
+        "course": "Bible 12",
+        "student_count": 1
+      }
+    ],
+    "3": [
+      {
+        "course": "Bible 12",
+        "student_count": 5
+      }
+    ],
+    "4A": [
+      {
+        "course": "Bible 12",
+        "student_count": 3
+      }
+    ],
+    "4B": [
+      {
+        "course": "Bible 12",
+        "student_count": 5
+      }
+    ]
+  },
+  "T_224": {
+    "1A": [
+      {
+        "course": "Bible 9",
+        "student_count": 3
+      }
+    ],
+    "1B": [
+      {
+        "course": "Bible 9",
+        "student_count": 5
+      }
+    ],
+    "2A": [
+      {
+        "course": "Bible 9",
+        "student_count": 3
+      }
+    ],
+    "2B": [
+      {
+        "course": "Bible 9",
+        "student_count": 2
+      }
+    ],
+    "3": [
+      {
+        "course": "Bible 9",
+        "student_count": 9
+      }
+    ],
+    "4A": [
+      {
+        "course": "Bible 9",
+        "student_count": 4
+      }
+    ],
+    "4B": [
+      {
+        "course": "Bible 9",
+        "student_count": 4
+      }
+    ]
+  },
+  "T_520": {
+    "1A": [
+      {
+        "course": "Dual Enrollment Biology 101",
+        "student_count": 3
+      }
+    ],
+    "2A": [
+      {
+        "course": "Dual Enrollment Biology 101",
+        "student_count": 4
+      }
+    ],
+    "4A": [
+      {
+        "course": "Dual Enrollment Biology 101",
+        "student_count": 2
+      }
+    ],
+    "4B": [
+      {
+        "course": "Dual Enrollment Biology 101",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_862": {
+    "3": [
+      {
+        "course": "Dual Enrollment Chemistry 105",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_832": {
+    "2A": [
+      {
+        "course": "Dual Enrollment English 101",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_243": {
+    "1B": [
+      {
+        "course": "Dual Enrollment English 151",
+        "student_count": 6
+      }
+    ],
+    "2A": [
+      {
+        "course": "Dual Enrollment English 151",
+        "student_count": 4
+      }
+    ],
+    "2B": [
+      {
+        "course": "Dual Enrollment English 151",
+        "student_count": 6
+      }
+    ],
+    "3": [
+      {
+        "course": "Dual Enrollment English 151",
+        "student_count": 1
+      }
+    ],
+    "4A": [
+      {
+        "course": "Dual Enrollment English 151",
+        "student_count": 2
+      }
+    ],
+    "4B": [
+      {
+        "course": "Dual Enrollment English 151",
+        "student_count": 2
+      }
+    ]
+  },
+  "T_973": {
+    "1B": [
+      {
+        "course": "Dual Enrollment Intro. to Teaching 201",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_573": {
+    "1A": [
+      {
+        "course": "Dual Enrollment Intro. to Psych. 101",
+        "student_count": 1
+      }
+    ],
+    "3": [
+      {
+        "course": "Dual Enrollment Intro. to Psych. 101",
+        "student_count": 1
+      }
+    ],
+    "4A": [
+      {
+        "course": "Dual Enrollment Intro. to Psych. 101",
+        "student_count": 2
+      }
+    ]
+  },
+  "T_344": {
+    "2B": [
+      {
+        "course": "Dual Enrollment World Civ. 151",
+        "student_count": 1
+      }
+    ],
+    "3": [
+      {
+        "course": "Dual Enrollment World Civ. 151",
+        "student_count": 2
+      }
+    ],
+    "4A": [
+      {
+        "course": "Dual Enrollment World Civ. 151",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_801": {
+    "1A": [
+      {
+        "course": "Dual Enrollment World Civ. 101",
+        "student_count": 2
+      }
+    ],
+    "1B": [
+      {
+        "course": "Dual Enrollment World Civ. 101",
+        "student_count": 4
+      }
+    ],
+    "2A": [
+      {
+        "course": "Dual Enrollment World Civ. 101",
+        "student_count": 2
+      }
+    ],
+    "3": [
+      {
+        "course": "Dual Enrollment World Civ. 101",
+        "student_count": 2
+      }
+    ],
+    "4A": [
+      {
+        "course": "Dual Enrollment World Civ. 101",
+        "student_count": 2
+      }
+    ],
+    "4B": [
+      {
+        "course": "Dual Enrollment World Civ. 101",
+        "student_count": 6
+      }
+    ]
+  },
+  "T_386": {
+    "1A": [
+      {
+        "course": "English 10",
+        "student_count": 1
+      }
+    ],
+    "1B": [
+      {
+        "course": "English 10",
+        "student_count": 5
+      }
+    ],
+    "2A": [
+      {
+        "course": "English 10",
+        "student_count": 3
+      }
+    ],
+    "2B": [
+      {
+        "course": "English 10",
+        "student_count": 5
+      }
+    ],
+    "3": [
+      {
+        "course": "English 10",
+        "student_count": 4
+      }
+    ],
+    "4A": [
+      {
+        "course": "English 10",
+        "student_count": 2
+      }
+    ],
+    "4B": [
+      {
+        "course": "English 10",
+        "student_count": 3
+      }
+    ]
+  },
+  "T_013": {
+    "1A": [
+      {
+        "course": "English 10 Honors",
+        "student_count": 3
+      }
+    ],
+    "2A": [
+      {
+        "course": "English 10 Honors",
+        "student_count": 3
+      }
+    ],
+    "2B": [
+      {
+        "course": "English 10 Honors",
+        "student_count": 1
+      }
+    ],
+    "3": [
+      {
+        "course": "English 10 Honors",
+        "student_count": 2
+      }
+    ],
+    "4A": [
+      {
+        "course": "English 10 Honors",
+        "student_count": 5
+      }
+    ],
+    "4B": [
+      {
+        "course": "English 10 Honors",
+        "student_count": 4
+      }
+    ]
+  },
+  "T_675": {
+    "1B": [
+      {
+        "course": "American Literature",
+        "student_count": 5
+      }
+    ],
+    "2A": [
+      {
+        "course": "American Literature",
+        "student_count": 4
+      }
+    ],
+    "3": [
+      {
+        "course": "American Literature",
+        "student_count": 4
+      }
+    ],
+    "4A": [
+      {
+        "course": "American Literature",
+        "student_count": 4
+      }
+    ],
+    "4B": [
+      {
+        "course": "American Literature",
+        "student_count": 5
+      }
+    ]
+  },
+  "T_345": {
+    "1A": [
+      {
+        "course": "World Literature",
+        "student_count": 1
+      }
+    ],
+    "2A": [
+      {
+        "course": "World Literature",
+        "student_count": 3
+      }
+    ],
+    "2B": [
+      {
+        "course": "World Literature",
+        "student_count": 4
+      }
+    ],
+    "3": [
+      {
+        "course": "World Literature",
+        "student_count": 2
+      }
+    ],
+    "4A": [
+      {
+        "course": "World Literature",
+        "student_count": 1
+      }
+    ],
+    "4B": [
+      {
+        "course": "World Literature",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_716": {
+    "1B": [
+      {
+        "course": "World Literature Honors",
+        "student_count": 1
+      }
+    ],
+    "2A": [
+      {
+        "course": "World Literature Honors",
+        "student_count": 1
+      }
+    ],
+    "2B": [
+      {
+        "course": "World Literature Honors",
+        "student_count": 1
+      }
+    ],
+    "4A": [
+      {
+        "course": "World Literature Honors",
+        "student_count": 1
+      }
+    ],
+    "4B": [
+      {
+        "course": "World Literature Honors",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_147": {
+    "1A": [
+      {
+        "course": "English 9",
+        "student_count": 2
+      }
+    ],
+    "2A": [
+      {
+        "course": "English 9",
+        "student_count": 3
+      }
+    ],
+    "2B": [
+      {
+        "course": "English 9",
+        "student_count": 5
+      }
+    ],
+    "3": [
+      {
+        "course": "English 9",
+        "student_count": 1
+      }
+    ],
+    "4A": [
+      {
+        "course": "English 9",
+        "student_count": 3
+      }
+    ],
+    "4B": [
+      {
+        "course": "English 9",
+        "student_count": 3
+      }
+    ]
+  },
+  "T_541": {
+    "1A": [
+      {
+        "course": "English 9 Honors",
+        "student_count": 1
+      }
+    ],
+    "1B": [
+      {
+        "course": "English 9 Honors",
+        "student_count": 2
+      }
+    ],
+    "2A": [
+      {
+        "course": "English 9 Honors",
+        "student_count": 2
+      }
+    ],
+    "2B": [
+      {
+        "course": "English 9 Honors",
+        "student_count": 4
+      }
+    ],
+    "3": [
+      {
+        "course": "English 9 Honors",
+        "student_count": 1
+      }
+    ],
+    "4A": [
+      {
+        "course": "English 9 Honors",
+        "student_count": 2
+      }
+    ],
+    "4B": [
+      {
+        "course": "English 9 Honors",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_755": {
+    "1A": [
+      {
+        "course": "Speech Communications",
+        "student_count": 1
+      }
+    ],
+    "1B": [
+      {
+        "course": "Speech Communications",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_314": {
+    "1A": [
+      {
+        "course": "Faith & Film",
+        "student_count": 1
+      }
+    ],
+    "1B": [
+      {
+        "course": "Faith & Film",
+        "student_count": 1
+      }
+    ],
+    "2A": [
+      {
+        "course": "Faith & Film",
+        "student_count": 2
+      }
+    ],
+    "2B": [
+      {
+        "course": "Faith & Film",
+        "student_count": 2
+      }
+    ],
+    "3": [
+      {
+        "course": "Faith & Film",
+        "student_count": 1
+      }
+    ],
+    "4A": [
+      {
+        "course": "Faith & Film",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_705": {
+    "1A": [
+      {
+        "course": "Financial Literacy",
+        "student_count": 4
+      }
+    ],
+    "1B": [
+      {
+        "course": "Financial Literacy",
+        "student_count": 1
+      }
+    ],
+    "2A": [
+      {
+        "course": "Financial Literacy",
+        "student_count": 3
+      }
+    ],
+    "2B": [
+      {
+        "course": "Financial Literacy",
+        "student_count": 4
+      }
+    ],
+    "3": [
+      {
+        "course": "Financial Literacy",
+        "student_count": 1
+      }
+    ],
+    "4A": [
+      {
+        "course": "Financial Literacy",
+        "student_count": 5
+      }
+    ],
+    "4B": [
+      {
+        "course": "Financial Literacy",
+        "student_count": 4
+      }
+    ]
+  },
+  "T_817": {
+    "1A": [
+      {
+        "course": "Spanish I",
+        "student_count": 3
+      }
+    ],
+    "1B": [
+      {
+        "course": "Spanish I",
+        "student_count": 4
+      }
+    ],
+    "2A": [
+      {
+        "course": "Spanish I",
+        "student_count": 4
+      }
+    ],
+    "2B": [
+      {
+        "course": "Spanish I",
+        "student_count": 2
+      }
+    ],
+    "3": [
+      {
+        "course": "Spanish I",
+        "student_count": 2
+      }
+    ],
+    "4A": [
+      {
+        "course": "Spanish I",
+        "student_count": 5
+      }
+    ],
+    "4B": [
+      {
+        "course": "Spanish I",
+        "student_count": 2
+      }
+    ]
+  },
+  "T_382": {
+    "1A": [
+      {
+        "course": "Spanish II",
+        "student_count": 9
+      }
+    ],
+    "1B": [
+      {
+        "course": "Spanish II",
+        "student_count": 7
+      }
+    ],
+    "2A": [
+      {
+        "course": "Spanish II",
+        "student_count": 7
+      }
+    ],
+    "2B": [
+      {
+        "course": "Spanish II",
+        "student_count": 2
+      }
+    ],
+    "3": [
+      {
+        "course": "Spanish II",
+        "student_count": 7
+      }
+    ],
+    "4A": [
+      {
+        "course": "Spanish II",
+        "student_count": 2
+      }
+    ],
+    "4B": [
+      {
+        "course": "Spanish II",
+        "student_count": 5
+      }
+    ]
+  },
+  "T_514": {
+    "1A": [
+      {
+        "course": "Spanish III",
+        "student_count": 1
+      }
+    ],
+    "4A": [
+      {
+        "course": "Spanish III",
+        "student_count": 3
+      }
+    ],
+    "4B": [
+      {
+        "course": "Spanish III",
+        "student_count": 1
+      }
+    ],
+    "1B": [
+      {
+        "course": "Trig/Pre-Calculus Hon",
+        "student_count": 1
+      }
+    ],
+    "2A": [
+      {
+        "course": "Trig/Pre-Calculus Hon",
+        "student_count": 2
+      }
+    ],
+    "2B": [
+      {
+        "course": "Trig/Pre-Calculus Hon",
+        "student_count": 2
+      }
+    ],
+    "3": [
+      {
+        "course": "Trig/Pre-Calculus Hon",
+        "student_count": 2
+      }
+    ]
+  },
+  "T_373": {
+    "1B": [
+      {
+        "course": "Algebra 1",
+        "student_count": 5
+      }
+    ],
+    "2B": [
+      {
+        "course": "Algebra 1",
+        "student_count": 1
+      }
+    ],
+    "4B": [
+      {
+        "course": "Algebra 1",
+        "student_count": 2
+      }
+    ]
+  },
+  "T_322": {
+    "1A": [
+      {
+        "course": "Algebra 1 Honors",
+        "student_count": 1
+      }
+    ],
+    "1B": [
+      {
+        "course": "Geometry Honors",
+        "student_count": 1
+      }
+    ],
+    "2A": [
+      {
+        "course": "Geometry Honors",
+        "student_count": 2
+      }
+    ],
+    "2B": [
+      {
+        "course": "Geometry Honors",
+        "student_count": 2
+      }
+    ],
+    "3": [
+      {
+        "course": "Geometry Honors",
+        "student_count": 2
+      }
+    ],
+    "4A": [
+      {
+        "course": "Geometry Honors",
+        "student_count": 3
+      }
+    ],
+    "4B": [
+      {
+        "course": "Geometry Honors",
+        "student_count": 4
+      }
+    ]
+  },
+  "T_281": {
+    "1A": [
+      {
+        "course": "Algebra II",
+        "student_count": 1
+      }
+    ],
+    "1B": [
+      {
+        "course": "Algebra II",
+        "student_count": 4
+      }
+    ],
+    "2A": [
+      {
+        "course": "Algebra II",
+        "student_count": 3
+      }
+    ],
+    "2B": [
+      {
+        "course": "Algebra II",
+        "student_count": 2
+      }
+    ],
+    "3": [
+      {
+        "course": "Algebra II",
+        "student_count": 2
+      }
+    ],
+    "4A": [
+      {
+        "course": "Algebra II",
+        "student_count": 6
+      }
+    ],
+    "4B": [
+      {
+        "course": "Algebra II",
+        "student_count": 3
+      }
+    ]
+  },
+  "T_507": {
+    "1A": [
+      {
+        "course": "Alg II Honors",
+        "student_count": 2
+      }
+    ],
+    "1B": [
+      {
+        "course": "Alg II Honors",
+        "student_count": 2
+      }
+    ],
+    "2A": [
+      {
+        "course": "Alg II Honors",
+        "student_count": 1
+      }
+    ],
+    "2B": [
+      {
+        "course": "Alg II Honors",
+        "student_count": 4
+      }
+    ],
+    "3": [
+      {
+        "course": "Alg II Honors",
+        "student_count": 3
+      }
+    ],
+    "4A": [
+      {
+        "course": "Alg II Honors",
+        "student_count": 3
+      }
+    ],
+    "4B": [
+      {
+        "course": "Alg II Honors",
+        "student_count": 3
+      }
+    ]
+  },
+  "T_781": {
+    "2A": [
+      {
+        "course": "AP Calculus A/B",
+        "student_count": 1
+      }
+    ],
+    "2B": [
+      {
+        "course": "AP Calculus A/B",
+        "student_count": 1
+      }
+    ],
+    "3": [
+      {
+        "course": "AP Calculus A/B",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_400": {
+    "4B": [
+      {
+        "course": "Dual Enrollment Statistics 152",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_937": {
+    "1A": [
+      {
+        "course": "Geometry",
+        "student_count": 2
+      }
+    ],
+    "1B": [
+      {
+        "course": "Geometry",
+        "student_count": 2
+      }
+    ],
+    "2A": [
+      {
+        "course": "Geometry",
+        "student_count": 1
+      }
+    ],
+    "3": [
+      {
+        "course": "Geometry",
+        "student_count": 4
+      }
+    ],
+    "4A": [
+      {
+        "course": "Geometry",
+        "student_count": 4
+      }
+    ],
+    "4B": [
+      {
+        "course": "Geometry",
+        "student_count": 4
+      }
+    ]
+  },
+  "T_323": {
+    "1A": [
+      {
+        "course": "Trig/Algebra III",
+        "student_count": 3
+      }
+    ],
+    "2A": [
+      {
+        "course": "Trig/Algebra III",
+        "student_count": 2
+      }
+    ],
+    "2B": [
+      {
+        "course": "Trig/Algebra III",
+        "student_count": 3
+      }
+    ],
+    "3": [
+      {
+        "course": "Trig/Algebra III",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_101": {
+    "1A": [
+      {
+        "course": "Statistics Honors",
+        "student_count": 1
+      }
+    ],
+    "3": [
+      {
+        "course": "Statistics Honors",
+        "student_count": 2
+      }
+    ],
+    "4B": [
+      {
+        "course": "Statistics Honors",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_888": {
+    "1A": [
+      {
+        "course": "Trig/PreCalculus",
+        "student_count": 1
+      }
+    ],
+    "1B": [
+      {
+        "course": "Trig/PreCalculus",
+        "student_count": 1
+      }
+    ],
+    "2B": [
+      {
+        "course": "Trig/PreCalculus",
+        "student_count": 3
+      }
+    ],
+    "3": [
+      {
+        "course": "Trig/PreCalculus",
+        "student_count": 3
+      }
+    ],
+    "4A": [
+      {
+        "course": "Trig/PreCalculus",
+        "student_count": 1
+      }
+    ],
+    "4B": [
+      {
+        "course": "Trig/PreCalculus",
+        "student_count": 4
+      }
+    ]
+  },
+  "T_111": {
+    "1A": [
+      {
+        "course": "Health - High ",
+        "student_count": 1
+      }
+    ],
+    "1B": [
+      {
+        "course": "Health - High ",
+        "student_count": 2
+      }
+    ],
+    "2A": [
+      {
+        "course": "Health - High ",
+        "student_count": 4
+      }
+    ],
+    "2B": [
+      {
+        "course": "Health - High ",
+        "student_count": 4
+      }
+    ],
+    "3": [
+      {
+        "course": "Health - High ",
+        "student_count": 3
+      }
+    ],
+    "4A": [
+      {
+        "course": "Health - High ",
+        "student_count": 4
+      }
+    ],
+    "4B": [
+      {
+        "course": "Health - High ",
+        "student_count": 10
+      }
+    ]
+  },
+  "T_685": {
+    "1A": [
+      {
+        "course": "Physical Education - High ",
+        "student_count": 1
+      }
+    ],
+    "1B": [
+      {
+        "course": "Physical Education - High ",
+        "student_count": 4
+      }
+    ],
+    "2A": [
+      {
+        "course": "Physical Education - High ",
+        "student_count": 2
+      }
+    ],
+    "2B": [
+      {
+        "course": "Physical Education - High ",
+        "student_count": 4
+      }
+    ],
+    "3": [
+      {
+        "course": "Physical Education - High ",
+        "student_count": 5
+      }
+    ],
+    "4A": [
+      {
+        "course": "Physical Education - High ",
+        "student_count": 5
+      }
+    ],
+    "4B": [
+      {
+        "course": "Physical Education - High ",
+        "student_count": 2
+      }
+    ]
+  },
+  "T_632": {
+    "1A": [
+      {
+        "course": "Personal Fitness",
+        "student_count": 3
+      }
+    ],
+    "1B": [
+      {
+        "course": "Personal Fitness",
+        "student_count": 1
+      }
+    ],
+    "2A": [
+      {
+        "course": "Personal Fitness",
+        "student_count": 1
+      }
+    ],
+    "4A": [
+      {
+        "course": "Personal Fitness",
+        "student_count": 3
+      }
+    ],
+    "4B": [
+      {
+        "course": "Personal Fitness",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_247": {
+    "1A": [
+      {
+        "course": "Anatomy & Physiology",
+        "student_count": 1
+      }
+    ],
+    "1B": [
+      {
+        "course": "Anatomy & Physiology",
+        "student_count": 2
+      }
+    ],
+    "2A": [
+      {
+        "course": "Anatomy & Physiology",
+        "student_count": 1
+      }
+    ],
+    "2B": [
+      {
+        "course": "Anatomy & Physiology",
+        "student_count": 4
+      }
+    ],
+    "3": [
+      {
+        "course": "Anatomy & Physiology",
+        "student_count": 2
+      }
+    ],
+    "4B": [
+      {
+        "course": "Anatomy & Physiology",
+        "student_count": 3
+      }
+    ]
+  },
+  "T_041": {
+    "1A": [
+      {
+        "course": "Biology",
+        "student_count": 4
+      }
+    ],
+    "1B": [
+      {
+        "course": "Biology",
+        "student_count": 1
+      }
+    ],
+    "2A": [
+      {
+        "course": "Biology",
+        "student_count": 4
+      }
+    ],
+    "2B": [
+      {
+        "course": "Biology",
+        "student_count": 3
+      }
+    ],
+    "3": [
+      {
+        "course": "Biology",
+        "student_count": 3
+      }
+    ],
+    "4A": [
+      {
+        "course": "Biology",
+        "student_count": 4
+      }
+    ],
+    "4B": [
+      {
+        "course": "Biology",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_996": {
+    "1A": [
+      {
+        "course": "Biology Honors",
+        "student_count": 5
+      }
+    ],
+    "1B": [
+      {
+        "course": "Biology Honors",
+        "student_count": 2
+      }
+    ],
+    "2A": [
+      {
+        "course": "Biology Honors",
+        "student_count": 4
+      }
+    ],
+    "2B": [
+      {
+        "course": "Biology Honors",
+        "student_count": 3
+      }
+    ],
+    "3": [
+      {
+        "course": "Biology Honors",
+        "student_count": 2
+      }
+    ],
+    "4B": [
+      {
+        "course": "Biology Honors",
+        "student_count": 5
+      }
+    ]
+  },
+  "T_172": {
+    "1A": [
+      {
+        "course": "Chemistry Honors",
+        "student_count": 3
+      }
+    ],
+    "1B": [
+      {
+        "course": "Chemistry Honors",
+        "student_count": 4
+      }
+    ],
+    "2A": [
+      {
+        "course": "Chemistry Honors",
+        "student_count": 3
+      }
+    ],
+    "2B": [
+      {
+        "course": "Chemistry Honors",
+        "student_count": 6
+      }
+    ],
+    "3": [
+      {
+        "course": "Chemistry Honors",
+        "student_count": 1
+      }
+    ],
+    "4A": [
+      {
+        "course": "Chemistry Honors",
+        "student_count": 4
+      }
+    ],
+    "4B": [
+      {
+        "course": "Chemistry Honors",
+        "student_count": 2
+      }
+    ]
+  },
+  "T_254": {
+    "1A": [
+      {
+        "course": "Earth and Space Science",
+        "student_count": 4
+      }
+    ],
+    "1B": [
+      {
+        "course": "Earth and Space Science",
+        "student_count": 5
+      }
+    ],
+    "2A": [
+      {
+        "course": "Earth and Space Science",
+        "student_count": 3
+      }
+    ],
+    "2B": [
+      {
+        "course": "Earth and Space Science",
+        "student_count": 5
+      }
+    ],
+    "3": [
+      {
+        "course": "Earth and Space Science",
+        "student_count": 2
+      }
+    ],
+    "4A": [
+      {
+        "course": "Earth and Space Science",
+        "student_count": 2
+      }
+    ],
+    "4B": [
+      {
+        "course": "Earth and Space Science",
+        "student_count": 6
+      }
+    ]
+  },
+  "T_267": {
+    "1B": [
+      {
+        "course": "Marine Biology",
+        "student_count": 1
+      }
+    ],
+    "2A": [
+      {
+        "course": "Marine Biology",
+        "student_count": 1
+      }
+    ],
+    "2B": [
+      {
+        "course": "Marine Biology",
+        "student_count": 1
+      }
+    ],
+    "3": [
+      {
+        "course": "Marine Biology",
+        "student_count": 4
+      }
+    ],
+    "4A": [
+      {
+        "course": "Marine Biology",
+        "student_count": 2
+      }
+    ]
+  },
+  "T_006": {
+    "1A": [
+      {
+        "course": "Physical Science",
+        "student_count": 3
+      }
+    ],
+    "2A": [
+      {
+        "course": "Physical Science",
+        "student_count": 2
+      }
+    ],
+    "2B": [
+      {
+        "course": "Physical Science",
+        "student_count": 4
+      }
+    ],
+    "4A": [
+      {
+        "course": "Physical Science",
+        "student_count": 1
+      }
+    ],
+    "4B": [
+      {
+        "course": "Physical Science",
+        "student_count": 3
+      }
+    ]
+  },
+  "T_325": {
+    "1A": [
+      {
+        "course": "American Government & Politics",
+        "student_count": 1
+      }
+    ],
+    "1B": [
+      {
+        "course": "American Government & Politics",
+        "student_count": 3
+      }
+    ],
+    "2A": [
+      {
+        "course": "American Government & Politics",
+        "student_count": 3
+      }
+    ],
+    "2B": [
+      {
+        "course": "American Government & Politics",
+        "student_count": 6
+      }
+    ],
+    "3": [
+      {
+        "course": "American Government & Politics",
+        "student_count": 3
+      }
+    ],
+    "4A": [
+      {
+        "course": "American Government & Politics",
+        "student_count": 3
+      }
+    ],
+    "4B": [
+      {
+        "course": "American Government & Politics",
+        "student_count": 6
+      }
+    ]
+  },
+  "T_671": {
+    "1A": [
+      {
+        "course": "American Government & Politics Honors",
+        "student_count": 1
+      }
+    ],
+    "1B": [
+      {
+        "course": "American Government & Politics Honors",
+        "student_count": 2
+      }
+    ],
+    "2A": [
+      {
+        "course": "American Government & Politics Honors",
+        "student_count": 2
+      }
+    ],
+    "2B": [
+      {
+        "course": "American Government & Politics Honors",
+        "student_count": 3
+      }
+    ],
+    "3": [
+      {
+        "course": "American Government & Politics Honors",
+        "student_count": 3
+      }
+    ],
+    "4A": [
+      {
+        "course": "American Government & Politics Honors",
+        "student_count": 1
+      }
+    ],
+    "4B": [
+      {
+        "course": "American Government & Politics Honors",
+        "student_count": 2
+      }
+    ]
+  },
+  "T_210": {
+    "1A": [
+      {
+        "course": "World History",
+        "student_count": 5
+      }
+    ],
+    "1B": [
+      {
+        "course": "World History",
+        "student_count": 2
+      }
+    ],
+    "2A": [
+      {
+        "course": "World History",
+        "student_count": 2
+      }
+    ],
+    "2B": [
+      {
+        "course": "World History",
+        "student_count": 4
+      }
+    ],
+    "3": [
+      {
+        "course": "World History",
+        "student_count": 7
+      }
+    ],
+    "4A": [
+      {
+        "course": "World History",
+        "student_count": 1
+      }
+    ],
+    "4B": [
+      {
+        "course": "World History",
+        "student_count": 3
+      }
+    ]
+  },
+  "T_607": {
+    "1A": [
+      {
+        "course": "US History",
+        "student_count": 11
+      }
+    ],
+    "1B": [
+      {
+        "course": "US History",
+        "student_count": 3
+      }
+    ],
+    "2A": [
+      {
+        "course": "US History",
+        "student_count": 4
+      }
+    ],
+    "2B": [
+      {
+        "course": "US History",
+        "student_count": 3
+      }
+    ],
+    "3": [
+      {
+        "course": "US History",
+        "student_count": 4
+      }
+    ],
+    "4A": [
+      {
+        "course": "US History",
+        "student_count": 3
+      }
+    ],
+    "4B": [
+      {
+        "course": "US History",
+        "student_count": 4
+      }
+    ]
+  },
+  "T_228": {
+    "3": [
+      {
+        "course": "Introduction to Business",
+        "student_count": 1
+      }
+    ],
+    "1B": [
+      {
+        "course": "Contemporary Issues",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_784": {
+    "1A": [
+      {
+        "course": "Advanced Robotics",
+        "student_count": 2
+      }
+    ],
+    "1B": [
+      {
+        "course": "Advanced Robotics",
+        "student_count": 1
+      }
+    ],
+    "2A": [
+      {
+        "course": "Advanced Robotics",
+        "student_count": 2
+      }
+    ],
+    "2B": [
+      {
+        "course": "Advanced Robotics",
+        "student_count": 1
+      }
+    ],
+    "3": [
+      {
+        "course": "Advanced Robotics",
+        "student_count": 1
+      }
+    ],
+    "4B": [
+      {
+        "course": "Advanced Robotics",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_136": {
+    "1A": [
+      {
+        "course": "Digital Imaging & Editing",
+        "student_count": 3
+      }
+    ],
+    "1B": [
+      {
+        "course": "Digital Imaging & Editing",
+        "student_count": 1
+      }
+    ],
+    "2A": [
+      {
+        "course": "Digital Imaging & Editing",
+        "student_count": 5
+      }
+    ],
+    "2B": [
+      {
+        "course": "Digital Imaging & Editing",
+        "student_count": 1
+      }
+    ],
+    "3": [
+      {
+        "course": "Digital Imaging & Editing",
+        "student_count": 3
+      }
+    ],
+    "4A": [
+      {
+        "course": "Digital Imaging & Editing",
+        "student_count": 2
+      }
+    ],
+    "4B": [
+      {
+        "course": "Digital Imaging & Editing",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_635": {
+    "1A": [
+      {
+        "course": "Graphic Design",
+        "student_count": 1
+      }
+    ],
+    "1B": [
+      {
+        "course": "Graphic Design",
+        "student_count": 5
+      }
+    ],
+    "2A": [
+      {
+        "course": "Graphic Design",
+        "student_count": 5
+      }
+    ],
+    "2B": [
+      {
+        "course": "Graphic Design",
+        "student_count": 5
+      }
+    ],
+    "3": [
+      {
+        "course": "Graphic Design",
+        "student_count": 3
+      }
+    ],
+    "4A": [
+      {
+        "course": "Graphic Design",
+        "student_count": 7
+      }
+    ],
+    "4B": [
+      {
+        "course": "Graphic Design",
+        "student_count": 2
+      }
+    ]
+  },
+  "T_472": {
+    "1A": [
+      {
+        "course": "Yearbook",
+        "student_count": 1
+      }
+    ],
+    "1B": [
+      {
+        "course": "Yearbook",
+        "student_count": 1
+      }
+    ],
+    "4A": [
+      {
+        "course": "Yearbook",
+        "student_count": 1
+      }
+    ],
+    "4B": [
+      {
+        "course": "Yearbook",
+        "student_count": 2
+      }
+    ]
+  },
+  "T_275": {
+    "2A": [
+      {
+        "course": "Recreational Sports",
+        "student_count": 2
+      }
+    ],
+    "2B": [
+      {
+        "course": "Recreational Sports",
+        "student_count": 1
+      }
+    ],
+    "4A": [
+      {
+        "course": "Recreational Sports",
+        "student_count": 2
+      }
+    ],
+    "4B": [
+      {
+        "course": "Recreational Sports",
+        "student_count": 2
+      }
+    ]
+  },
+  "T_983": {
+    "1B": [
+      {
+        "course": "Physics Honors",
+        "student_count": 1
+      }
+    ],
+    "2A": [
+      {
+        "course": "Physics Honors",
+        "student_count": 1
+      }
+    ],
+    "3": [
+      {
+        "course": "Physics Honors",
+        "student_count": 2
+      }
+    ],
+    "4A": [
+      {
+        "course": "Physics Honors",
+        "student_count": 1
+      }
+    ],
+    "4B": [
+      {
+        "course": "Physics Honors",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_177": {
+    "1B": [
+      {
+        "course": "Modern America",
+        "student_count": 1
+      }
+    ],
+    "2B": [
+      {
+        "course": "Modern America",
+        "student_count": 1
+      }
+    ],
+    "4B": [
+      {
+        "course": "Modern America",
+        "student_count": 2
+      }
+    ]
+  },
+  "T_222": {
+    "1A": [
+      {
+        "course": "Broadcast Journalism",
+        "student_count": 1
+      }
+    ],
+    "1B": [
+      {
+        "course": "Broadcast Journalism",
+        "student_count": 1
+      }
+    ],
+    "2B": [
+      {
+        "course": "Broadcast Journalism",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_885": {
+    "1A": [
+      {
+        "course": "AP Computer Science",
+        "student_count": 2
+      }
+    ],
+    "3": [
+      {
+        "course": "AP Computer Science",
+        "student_count": 2
+      }
+    ],
+    "4B": [
+      {
+        "course": "AP Computer Science",
+        "student_count": 1
+      }
+    ]
+  },
+  "T_431": {
+    "1B": [
+      {
+        "course": "Journalism",
+        "student_count": 1
+      }
+    ]
+  }
+}

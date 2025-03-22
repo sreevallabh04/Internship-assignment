@@ -27,8 +27,8 @@
     "4B": "American Literature"
   },
   "5361882": {
-    "1A": "Dual Enrollment World Civ. 101",
-    "1B": "American Literature Honors",
+    "1A": "Spanish III",
+    "1B": "Dual Enrollment World Civ. 101",
     "2A": "Studio Art II",
     "2B": "Anatomy & Physiology",
     "3": "Marine Biology",
@@ -55,7 +55,7 @@
   },
   "5361905": {
     "1A": "World History",
-    "1B": "Spanish III",
+    "1B": "Anatomy & Physiology",
     "2A": "Trig/Pre-Calculus Hon",
     "2B": "Bible 11",
     "3": "Marine Biology",
@@ -63,12 +63,12 @@
     "4B": "Studio Art I"
   },
   "5361867": {
-    "1A": "Band - High ",
+    "1A": "Chemistry Honors",
     "1B": "Bible 10",
     "2A": "Spanish II",
     "2B": "Alg II Honors",
     "3": "American Government & Politics Honors",
-    "4A": "Chemistry Honors",
+    "4A": "Band - High ",
     "4B": "English 10 Honors"
   },
   "5642283": {
@@ -118,11 +118,11 @@
   },
   "5361806": {
     "1A": "Biology Honors",
-    "1B": "Bible 9",
-    "2A": "Algebra 1 Honors",
+    "1B": "Studio Art II",
+    "2A": "Bible 9",
     "2B": "US History",
-    "3": "Studio Art II",
-    "4A": "Studio Art I",
+    "3": "Studio Art I",
+    "4A": "Spanish I",
     "4B": "English 9 Honors"
   },
   "5434946": {
@@ -164,10 +164,10 @@
   "5361874": {
     "1A": "Anatomy & Physiology",
     "1B": "Band - High ",
-    "2A": "Dual Enrollment World Civ. 101",
+    "2A": "Algebra II",
     "2B": "American Literature Honors",
-    "3": "Spanish III",
-    "4A": "Marine Biology",
+    "3": "Marine Biology",
+    "4A": "Dual Enrollment World Civ. 101",
     "4B": "Bible 11"
   },
   "5439293": {
@@ -202,7 +202,7 @@
     "1B": "Biology Honors",
     "2A": "English 9 Honors",
     "2B": "Graphic Design",
-    "3": "Geometry Honors",
+    "3": "Digital Imaging & Editing",
     "4A": "Spanish I",
     "4B": "Bible 9"
   },
@@ -217,10 +217,10 @@
   },
   "5361820": {
     "1A": "Physical Education - High ",
-    "1B": "Bible 9",
+    "1B": "Algebra 1",
     "2A": "Biology",
-    "2B": "Algebra 1",
-    "3": "Spanish I",
+    "2B": "Spanish I",
+    "3": "Bible 9",
     "4A": "US History",
     "4B": "English 9"
   },
@@ -230,26 +230,26 @@
     "2A": "Dual Enrollment English 101",
     "2B": "Financial Literacy",
     "3": "Band - High ",
-    "4A": "American Literature Honors",
+    "4A": "Dual Enrollment World Civ. 151",
     "4B": "Dual Enrollment World Civ. 101"
   },
   "5361897": {
-    "1A": "Dual Enrollment World Civ. 151",
-    "1B": "Study Hall",
+    "1A": "Dual Enrollment World Civ. 101",
+    "1B": "American Literature Honors",
     "2A": "Financial Literacy",
     "2B": "Bible 11",
-    "3": "Earth and Space Science",
-    "4A": "Trig/Pre-Calculus Hon",
-    "4B": "American Literature Honors"
+    "3": "Dual Enrollment World Civ. 151",
+    "4A": "Study Hall",
+    "4B": "Earth and Space Science"
   },
   "5361808": {
-    "1A": "Bible 9",
+    "1A": "Biology Honors",
     "1B": "Spanish I",
-    "2A": "US History",
+    "2A": "Bible 9",
     "2B": "English 9 Honors",
-    "3": "Geometry Honors",
-    "4A": "Biology Honors",
-    "4B": "Physical Education - High "
+    "3": "US History",
+    "4A": "Physical Education - High ",
+    "4B": "Health - High "
   },
   "5361811": {
     "2A": "Biology Honors",
@@ -265,13 +265,13 @@
     "4B": "Earth and Space Science"
   },
   "5361810": {
-    "1A": "Physical Education - High ",
-    "1B": "English 9 Honors",
+    "1A": "US History",
+    "1B": "Physical Education - High ",
     "2A": "Spanish I",
-    "2B": "Algebra 1 Honors",
-    "3": "US History",
+    "2B": "English 9 Honors",
+    "3": "Bible 9",
     "4A": "Biology",
-    "4B": "Bible 9"
+    "4B": "Health - High "
   },
   "5407518": {
     "1A": "Spanish II",
@@ -302,17 +302,17 @@
   "5361880": {
     "1A": "World History",
     "1B": "Financial Literacy",
-    "2A": "American Literature",
+    "2A": "Trig/Pre-Calculus Hon",
     "2B": "Drawing and Painting",
     "3": "Bible 11",
-    "4A": "Anatomy & Physiology",
-    "4B": "Trig/Pre-Calculus Hon"
+    "4A": "American Literature",
+    "4B": "Anatomy & Physiology"
   },
   "5361863": {
     "1A": "Advanced Robotics",
     "1B": "Geometry",
-    "2A": "Studio Art I",
-    "2B": "English 10",
+    "2A": "English 10",
+    "2B": "American Government & Politics",
     "3": "Studio Art II",
     "4A": "Earth and Space Science",
     "4B": "Bible 10"
@@ -337,10 +337,10 @@
   },
   "5407593": {
     "1A": "US History",
-    "1B": "Trig/Pre-Calculus Hon",
+    "1B": "American Literature Honors",
     "2A": "Bible 11",
     "2B": "Faith & Film",
-    "3": "American Literature Honors",
+    "3": "Trig/Pre-Calculus Hon",
     "4A": "Financial Literacy",
     "4B": "Chorus - High "
   },
@@ -366,19 +366,19 @@
     "1A": "Alg II Honors",
     "1B": "Spanish II",
     "2A": "Bible 11",
-    "2B": "American Literature",
-    "3": "Physical Science",
-    "4A": "World History",
+    "2B": "World History",
+    "3": "American Literature",
+    "4A": "Physical Science",
     "4B": "Physical Education - High "
   },
   "5407564": {
-    "1A": "Trig/Pre-Calculus Hon",
+    "1A": "Bible 12",
     "1B": "Chemistry Honors",
     "2A": "Advanced Robotics",
     "2B": "Chorus - High ",
     "3": "Dual Enrollment English 151",
-    "4A": "Bible 12",
-    "4B": "World Literature Honors"
+    "4A": "World Literature Honors",
+    "4B": "US History"
   },
   "5361836": {
     "1A": "Spanish II",
@@ -423,7 +423,7 @@
     "2B": "Biology Honors",
     "3": "Bible 9",
     "4A": "Digital Imaging & Editing",
-    "4B": "Geometry Honors"
+    "4B": "Spanish I"
   },
   "5361809": {
     "1A": "US History",
@@ -439,12 +439,12 @@
     "4B": "Advanced Robotics"
   },
   "5407517": {
-    "1A": "Bible 10",
+    "1A": "English 10 Honors",
     "1B": "Physical Education - High ",
     "2A": "Chemistry Honors",
-    "2B": "Band - High ",
+    "2B": "Bible 10",
     "3": "Algebra II",
-    "4A": "English 10 Honors",
+    "4A": "Band - High ",
     "4B": "American Government & Politics Honors"
   },
   "5361800": {
@@ -456,8 +456,8 @@
     "1B": "Studio Art II",
     "2A": "Personal Fitness",
     "2B": "Recreational Sports",
-    "3": "Bible 11",
-    "4A": "Studio Art I",
+    "3": "American Literature",
+    "4A": "Bible 11",
     "4B": "World History"
   },
   "5361821": {
@@ -466,13 +466,13 @@
     "4B": "Biology"
   },
   "5361912": {
-    "1A": "Contemporary Issues",
+    "1A": "Speech Communications",
     "1B": "Bible 12",
     "2A": "World Literature",
     "2B": "Study Hall",
-    "3": "Dual Enrollment Intro. to Psych. 101",
-    "4A": "Speech Communications",
-    "4B": "Dual Enrollment World Civ. 151"
+    "3": "Dual Enrollment World Civ. 151",
+    "4A": "Dual Enrollment Intro. to Psych. 101",
+    "4B": "Dual Enrollment World Civ. 101"
   },
   "5361858": {
     "1A": "Band - High ",
@@ -619,7 +619,7 @@
     "1B": "Dual Enrollment English 151",
     "2A": "Anatomy & Physiology",
     "2B": "Trig/Algebra III",
-    "3": "Spanish III",
+    "3": "Digital Imaging & Editing",
     "4A": "Bible 12",
     "4B": "Study Hall"
   },
@@ -634,7 +634,7 @@
   },
   "5361853": {
     "1A": "Bible 10",
-    "1B": "Studio Art I",
+    "1B": "Algebra II",
     "2A": "Spanish II",
     "2B": "Studio Art II",
     "3": "Earth and Space Science",
@@ -687,7 +687,7 @@
     "2B": "Anatomy & Physiology",
     "3": "Bible 11",
     "4A": "Marine Biology",
-    "4B": "Studio Art I"
+    "4B": "Trig/PreCalculus"
   },
   "5361851": {
     "1A": "Chemistry Honors",
@@ -708,12 +708,12 @@
   },
   "5361825": {
     "1A": "Biology Honors",
-    "1B": "Geometry Honors",
+    "1B": "English 9 Honors",
     "2A": "US History",
     "2B": "Physical Education - High ",
     "3": "Bible 9",
     "4A": "Health - High ",
-    "4B": "English 9 Honors"
+    "4B": "Geometry Honors"
   },
   "5361796": {
     "1A": "Bible 9",
@@ -794,7 +794,7 @@
   "5407480": {
     "1A": "Study Hall",
     "1B": "Algebra II",
-    "2A": "American Literature Honors",
+    "2A": "Digital Imaging & Editing",
     "2B": "Graphic Design",
     "3": "Dual Enrollment World Civ. 101",
     "4A": "Bible 11",
@@ -822,9 +822,9 @@
     "1A": "Study Hall (Semester)",
     "1B": "Anatomy & Physiology",
     "2A": "Bible 12",
-    "2B": "Contemporary Issues",
-    "3": "Dual Enrollment English 151",
-    "4A": "Dual Enrollment Intro. to Psych. 101",
+    "2B": "Dual Enrollment English 151",
+    "3": "Dual Enrollment Intro. to Psych. 101",
+    "4A": "Chorus - High ",
     "4B": "Dual Enrollment World Civ. 101"
   },
   "5361918": {
@@ -843,12 +843,12 @@
     "4B": "Health - High "
   },
   "5361910": {
-    "1A": "Dual Enrollment Biology 101",
+    "1A": "Executive Internship I",
     "1B": "Dual Enrollment English 151",
     "2A": "World Literature",
-    "2B": "Executive Internship I",
+    "2B": "Trig/Pre-Calculus Hon",
     "3": "Study Hall",
-    "4A": "Trig/Pre-Calculus Hon",
+    "4A": "Dual Enrollment Biology 101",
     "4B": "Bible 12"
   },
   "5361835": {
@@ -865,7 +865,7 @@
     "1B": "Health - High ",
     "2A": "US History",
     "2B": "English 9",
-    "3": "Geometry Honors",
+    "3": "Physical Education - High ",
     "4A": "Bible 9",
     "4B": "Spanish I"
   },
@@ -916,8 +916,8 @@
   },
   "5361803": {
     "1A": "Band - High ",
-    "1B": "Biology",
-    "2A": "Algebra 1",
+    "1B": "Algebra 1",
+    "2A": "Biology",
     "2B": "English 9",
     "3": "Bible 9",
     "4A": "Graphic Design",
@@ -978,7 +978,7 @@
   },
   "5361928": {
     "1A": "Statistics Honors",
-    "1B": "Introduction to Business",
+    "1B": "Dual Enrollment English 151",
     "2A": "Faith & Film",
     "2B": "Executive Internship II",
     "3": "Bible 12",
@@ -1033,7 +1033,7 @@
   "5361876": {
     "1A": "American Literature Honors",
     "1B": "Dual Enrollment World Civ. 101",
-    "4A": "Trig/Pre-Calculus Hon"
+    "2B": "Trig/Pre-Calculus Hon"
   },
   "5361902": {
     "1A": "Bible 11",
@@ -1058,9 +1058,9 @@
     "1B": "Bible 12",
     "2A": "Graphic Design",
     "2B": "Study Hall (Semester)",
-    "3": "Contemporary Issues",
+    "3": "AP Calculus A/B",
     "4A": "Recreational Sports",
-    "4B": "AP Calculus A/B"
+    "4B": "Personal Fitness"
   },
   "5407506": {
     "1A": "Trig/Algebra III",
@@ -1077,20 +1077,20 @@
     "3": "Bible 12"
   },
   "5407481": {
-    "1A": "Physical Education - High ",
+    "1A": "Biology",
     "1B": "Bible 9",
     "2A": "Graphic Design",
     "2B": "English 9",
-    "3": "Biology",
-    "4A": "Algebra 1 Honors",
+    "3": "Health - High ",
+    "4A": "Physical Education - High ",
     "4B": "US History"
   },
   "5361903": {
     "1A": "World History",
-    "1B": "Trig/Algebra III",
+    "1B": "Spanish II",
     "2A": "Physical Science",
-    "2B": "Bible 11",
-    "3": "American Literature Honors",
+    "2B": "Trig/Algebra III",
+    "3": "Bible 11",
     "4A": "Physical Education - High ",
     "4B": "Health - High "
   },
@@ -1135,21 +1135,21 @@
     "4B": "Study Hall"
   },
   "5361898": {
-    "1A": "Spanish III",
+    "1A": "Drawing and Painting",
     "1B": "Trig/Pre-Calculus Hon",
     "2A": "American Literature",
-    "2B": "Dual Enrollment World Civ. 101",
-    "3": "Drawing and Painting",
+    "2B": "Chemistry Honors",
+    "3": "Dual Enrollment World Civ. 101",
     "4A": "Bible 11",
-    "4B": "Chemistry Honors"
+    "4B": "Spanish III"
   },
   "5361878": {
     "1A": "Physical Science",
-    "1B": "Studio Art I",
+    "1B": "Spanish II",
     "2A": "Studio Art II",
     "2B": "Bible 11",
     "3": "World History",
-    "4A": "Spanish II",
+    "4A": "Algebra II",
     "4B": "American Literature"
   },
   "5407497": {
@@ -1165,10 +1165,10 @@
     "1A": "Chorus - High ",
     "1B": "Dual Enrollment World Civ. 101",
     "2A": "Digital Imaging & Editing",
-    "2B": "American Literature Honors",
+    "2B": "Graphic Design",
     "3": "Bible 11",
     "4A": "Alg II Honors",
-    "4B": "Graphic Design"
+    "4B": "Chemistry Honors"
   },
   "5361868": {
     "1A": "Spanish II",
@@ -1186,13 +1186,13 @@
     "4B": "American Government & Politics Honors"
   },
   "5361911": {
-    "1A": "Trig/Pre-Calculus Hon",
+    "1A": "Yearbook",
     "1B": "Bible 12",
     "2A": "Study Hall",
-    "2B": "Dual Enrollment World Civ. 101",
+    "2B": "Dual Enrollment World Civ. 151",
     "3": "Anatomy & Physiology",
-    "4A": "Yearbook",
-    "4B": "Dual Enrollment World Civ. 151"
+    "4A": "Dual Enrollment World Civ. 101",
+    "4B": "Dual Enrollment English 151"
   },
   "5361919": {
     "1A": "Personal Fitness",
@@ -1204,21 +1204,21 @@
     "4B": "Recreational Sports"
   },
   "5361822": {
-    "1A": "Geometry Honors",
+    "1A": "English 9 Honors",
     "1B": "Bible 9",
-    "2A": "Health - High ",
-    "2B": "English 9 Honors",
+    "2A": "Spanish I",
+    "2B": "Health - High ",
     "3": "Physical Education - High ",
     "4A": "US History",
     "4B": "Biology Honors"
   },
   "5361927": {
     "1A": "AP Computer Science",
-    "1B": "Spanish III",
+    "1B": "Dual Enrollment English 151",
     "2A": "Bible 12",
     "2B": "Physical Education - High ",
     "3": "Drawing and Painting",
-    "4A": "Dual Enrollment English 151",
+    "4A": "Health - High ",
     "4B": "Study Hall"
   },
   "5361933": {
@@ -1258,22 +1258,22 @@
     "4B": "American Government & Politics"
   },
   "5407560": {
-    "1A": "American Government & Politics",
+    "1A": "Spanish I",
     "1B": "Bible 10",
     "2A": "Digital Imaging & Editing",
-    "2B": "Geometry Honors",
+    "2B": "American Government & Politics",
     "3": "Earth and Space Science",
     "4A": "English 10",
     "4B": "Graphic Design"
   },
   "5361813": {
     "1A": "English 9",
-    "1B": "Algebra 1 Honors",
-    "2A": "Graphic Design",
+    "1B": "Graphic Design",
+    "2A": "US History",
     "2B": "Bible 9",
     "3": "Physical Education - High ",
     "4A": "Biology",
-    "4B": "US History"
+    "4B": "Health - High "
   },
   "5407590": {
     "2B": "Geometry Honors",
@@ -1281,12 +1281,12 @@
   },
   "5361873": {
     "1A": "Spanish II",
-    "1B": "Dual Enrollment World Civ. 101",
+    "1B": "Alg II Honors",
     "2A": "Drawing and Painting",
     "2B": "Anatomy & Physiology",
     "3": "Bible 11",
     "4A": "Marine Biology",
-    "4B": "American Literature Honors"
+    "4B": "Dual Enrollment World Civ. 101"
   },
   "5361925": {
     "1A": "Chorus - High ",
@@ -1316,22 +1316,22 @@
     "4B": "Earth and Space Science"
   },
   "5361887": {
-    "1A": "Physics Honors",
-    "1B": "Spanish I",
-    "2A": "Dual Enrollment World Civ. 101",
+    "1A": "Dual Enrollment World Civ. 101",
+    "1B": "Algebra II",
+    "2A": "American Literature Honors",
     "2B": "Bible 11",
-    "3": "Algebra II",
-    "4A": "American Literature Honors",
+    "3": "Physics Honors",
+    "4A": "Spanish I",
     "4B": "Band - High "
   },
   "5361877": {
-    "1A": "Physics Honors",
+    "1A": "Financial Literacy",
     "1B": "American Literature Honors",
     "2A": "Study Hall",
     "2B": "Bible 11",
-    "3": "Dual Enrollment World Civ. 101",
-    "4A": "Trig/Pre-Calculus Hon",
-    "4B": "Financial Literacy"
+    "3": "Health - High ",
+    "4A": "Physics Honors",
+    "4B": "Dual Enrollment World Civ. 101"
   },
   "5361934": {
     "1A": "World Literature",

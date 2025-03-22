@@ -1,31 +1,31 @@
-# Crestwood College Scheduling Report
+# My Scheduling Report for Crestwood College
 
 ## Introduction
 
-This report presents the results of the scheduling process for Crestwood College using operational research techniques. The scheduling algorithm was designed to optimize course assignments based on student preferences while respecting various constraints.
+In this report, I'll present the results of my scheduling process for Crestwood College. I approached this challenge using operational research techniques to optimize course assignments based on student preferences while respecting various constraints.
 
-## Operational Research Approach
+## My Operational Research Approach
 
-The scheduling problem was approached as a combination of two classic operations research problems:
+I tackled the scheduling problem as a combination of two classic operations research problems:
 
 1. **Assignment Problem**: Matching students to course sections
 2. **Transportation Problem**: Distributing course sections across time blocks
 
-### Key Concepts Used
+### Key Concepts I Used
 
-- **Hungarian Algorithm**: A combinatorial optimization algorithm that solves the assignment problem in polynomial time
-- **Cost Matrix**: A mathematical representation of the preferences and constraints where lower values indicate better assignments
-- **Multi-objective Optimization**: Balancing multiple goals including student preferences, room capacity, and teacher availability
+- **Hungarian Algorithm**: I implemented this combinatorial optimization algorithm that solves the assignment problem in polynomial time
+- **Cost Matrix**: I created a mathematical representation of the preferences and constraints where lower values indicate better assignments
+- **Multi-objective Optimization**: I balanced multiple goals including student preferences, room capacity, and teacher availability
 
-### Implementation Strategy
+### My Implementation Strategy
 
-The implementation followed a phased approach:
+I followed a phased approach:
 
-1. **Priority-Based Assignment**: First assigning required courses, then requested, and finally recommended
-2. **Constraint Handling**: Ensuring no student or teacher is double-booked and respecting room capacities
-3. **Optimization Refinement**: Using hill-climbing techniques to improve the initial schedule
+1. **Priority-Based Assignment**: I first assigned required courses, then requested, and finally recommended courses
+2. **Constraint Handling**: I ensured no student or teacher is double-booked and respected all room capacities
+3. **Optimization Refinement**: I used hill-climbing techniques to improve the initial schedule
 
-## Overall Statistics
+## Overall Statistics I Achieved
 
 Total requests: 9042
 Total fulfilled: 8813 (97.47%)
@@ -60,38 +60,38 @@ Total unfulfilled: 229 (2.53%)
 
 ## Course Popularity Analysis
 
-### Most Popular Courses
+### Most Popular Courses I Found
 
 | Course | Students Enrolled | % of Total Students |
 |--------|-------------------|---------------------|
 | Bible 11 | 41 | 26.28% |
 | Bible 10 | 40 | 25.64% |
-| Spanish II | 38 | 24.36% |
+| Spanish II | 39 | 25.00% |
 | Bible 12 | 37 | 23.72% |
-| US History | 31 | 19.87% |
+| US History | 32 | 20.51% |
 | Bible 9 | 30 | 19.23% |
 | Graphic Design | 28 | 17.95% |
+| Health - High  | 28 | 17.95% |
 | Earth and Space Science | 27 | 17.31% |
 | Study Hall | 26 | 16.67% |
-| American Government & Politics | 24 | 15.38% |
 
 ## Block Utilization Analysis
 
-### Student Distribution Across Blocks
+### How I Distributed Students Across Blocks
 
 | Block | Number of Students | Utilization % |
 |-------|-------------------|---------------|
 | 1A | 145 | 92.95% |
 | 1B | 146 | 93.59% |
 | 2A | 148 | 94.87% |
-| 2B | 147 | 94.23% |
+| 2B | 148 | 94.87% |
 | 3 | 146 | 93.59% |
-| 4A | 147 | 94.23% |
+| 4A | 146 | 93.59% |
 | 4B | 151 | 96.79% |
 
 ## Student Satisfaction Metrics
 
-### Overall Student Scheduling Completeness
+### How Well I Met Student Scheduling Needs
 
 | Satisfaction Level | Count | Percentage |
 |---------------------|-------|------------|
@@ -102,7 +102,7 @@ Total unfulfilled: 229 (2.53%)
 
 ## Students Block-wise View
 
-This view shows all students assigned to each block.
+Below I've provided a view of all students assigned to each block.
 
 ### Block 1A
 
@@ -119,9 +119,9 @@ This view shows all students assigned to each block.
 | 5361804 | Spanish I |
 | 5361806 | Biology Honors |
 | 5361807 | Algebra 1 Honors |
-| 5361808 | Bible 9 |
+| 5361808 | Biology Honors |
 | 5361809 | US History |
-| 5361810 | Physical Education - High  |
+| 5361810 | US History |
 | 5361813 | English 9 |
 | 5361814 | Bible 9 |
 | 5361816 | Bible 9 |
@@ -129,7 +129,7 @@ This view shows all students assigned to each block.
 | 5361818 | English 9 |
 | 5361819 | Biology |
 | 5361820 | Physical Education - High  |
-| 5361822 | Geometry Honors |
+| 5361822 | English 9 Honors |
 | 5361825 | Biology Honors |
 | 5361827 | Algebra II |
 | 5361828 | Geometry |
@@ -157,7 +157,7 @@ This view shows all students assigned to each block.
 | 5361863 | Advanced Robotics |
 | 5361864 | Earth and Space Science |
 | 5361865 | Geometry |
-| 5361867 | Band - High  |
+| 5361867 | Chemistry Honors |
 | 5361868 | Spanish II |
 | 5361869 | Band - High  |
 | 5361870 | Bible 10 |
@@ -166,17 +166,17 @@ This view shows all students assigned to each block.
 | 5361873 | Spanish II |
 | 5361874 | Anatomy & Physiology |
 | 5361876 | American Literature Honors |
-| 5361877 | Physics Honors |
+| 5361877 | Financial Literacy |
 | 5361878 | Physical Science |
 | 5361879 | Bible 11 |
 | 5361880 | World History |
 | 5361881 | World History |
-| 5361882 | Dual Enrollment World Civ. 101 |
+| 5361882 | Spanish III |
 | 5361883 | Dual Enrollment Intro. to Psych. 101 |
 | 5361884 | Earth and Space Science |
 | 5361885 | Dual Enrollment Biology 101 |
 | 5361886 | World History |
-| 5361887 | Physics Honors |
+| 5361887 | Dual Enrollment World Civ. 101 |
 | 5361888 | Financial Literacy |
 | 5361889 | Financial Literacy |
 | 5361890 | Physical Science |
@@ -185,8 +185,8 @@ This view shows all students assigned to each block.
 | 5361893 | Bible 11 |
 | 5361895 | Spanish II |
 | 5361896 | Bible 11 |
-| 5361897 | Dual Enrollment World Civ. 151 |
-| 5361898 | Spanish III |
+| 5361897 | Dual Enrollment World Civ. 101 |
+| 5361898 | Drawing and Painting |
 | 5361899 | Bible 11 |
 | 5361900 | Trig/PreCalculus |
 | 5361901 | Physical Science |
@@ -197,9 +197,9 @@ This view shows all students assigned to each block.
 | 5361906 | Study Hall (Semester) |
 | 5361908 | Study Hall |
 | 5361909 | Study Hall (Semester) |
-| 5361910 | Dual Enrollment Biology 101 |
-| 5361911 | Trig/Pre-Calculus Hon |
-| 5361912 | Contemporary Issues |
+| 5361910 | Executive Internship I |
+| 5361911 | Yearbook |
+| 5361912 | Speech Communications |
 | 5361913 | Personal Fitness |
 | 5361914 | Digital Imaging & Editing |
 | 5361915 | Executive Internship I |
@@ -222,7 +222,7 @@ This view shows all students assigned to each block.
 | 5361936 | Executive Internship I |
 | 5361937 | Drawing and Painting |
 | 5407480 | Study Hall |
-| 5407481 | Physical Education - High  |
+| 5407481 | Biology |
 | 5407488 | Digital Imaging & Editing |
 | 5407494 | English 10 Honors |
 | 5407497 | Spanish II |
@@ -230,7 +230,7 @@ This view shows all students assigned to each block.
 | 5407499 | American Literature Honors |
 | 5407500 | Spanish II |
 | 5407506 | Trig/Algebra III |
-| 5407517 | Bible 10 |
+| 5407517 | English 10 Honors |
 | 5407518 | Spanish II |
 | 5407519 | Bible 10 |
 | 5407520 | US History |
@@ -238,9 +238,9 @@ This view shows all students assigned to each block.
 | 5407543 | Bible 10 |
 | 5407554 | Spanish I |
 | 5407556 | Chorus - High  |
-| 5407560 | American Government & Politics |
+| 5407560 | Spanish I |
 | 5407561 | Bible 11 |
-| 5407564 | Trig/Pre-Calculus Hon |
+| 5407564 | Bible 12 |
 | 5407584 | US History |
 | 5407593 | US History |
 | 5409913 | Bible 11 |
@@ -266,21 +266,21 @@ This view shows all students assigned to each block.
 | 5361799 | Bible 9 |
 | 5361801 | Algebra 1 |
 | 5361802 | English 9 Honors |
-| 5361803 | Biology |
+| 5361803 | Algebra 1 |
 | 5361804 | Biology Honors |
-| 5361806 | Bible 9 |
+| 5361806 | Studio Art II |
 | 5361807 | US History |
 | 5361808 | Spanish I |
-| 5361810 | English 9 Honors |
-| 5361813 | Algebra 1 Honors |
+| 5361810 | Physical Education - High  |
+| 5361813 | Graphic Design |
 | 5361814 | Biology |
 | 5361816 | US History |
 | 5361817 | Algebra 1 |
 | 5361818 | Spanish I |
 | 5361819 | Health - High  |
-| 5361820 | Bible 9 |
+| 5361820 | Algebra 1 |
 | 5361822 | Bible 9 |
-| 5361825 | Geometry Honors |
+| 5361825 | English 9 Honors |
 | 5361827 | Spanish II |
 | 5361828 | English 10 |
 | 5361830 | Earth and Space Science |
@@ -297,7 +297,7 @@ This view shows all students assigned to each block.
 | 5361845 | English 10 |
 | 5361846 | Alg II Honors |
 | 5361847 | Earth and Space Science |
-| 5361853 | Studio Art I |
+| 5361853 | Algebra II |
 | 5361856 | Graphic Design |
 | 5361857 | Spanish II |
 | 5361858 | Spanish II |
@@ -312,20 +312,20 @@ This view shows all students assigned to each block.
 | 5361870 | Chemistry Honors |
 | 5361871 | Spanish II |
 | 5361872 | World History |
-| 5361873 | Dual Enrollment World Civ. 101 |
+| 5361873 | Alg II Honors |
 | 5361874 | Band - High  |
 | 5361876 | Dual Enrollment World Civ. 101 |
 | 5361877 | American Literature Honors |
-| 5361878 | Studio Art I |
+| 5361878 | Spanish II |
 | 5361879 | Modern America |
 | 5361880 | Financial Literacy |
 | 5361881 | Earth and Space Science |
-| 5361882 | American Literature Honors |
+| 5361882 | Dual Enrollment World Civ. 101 |
 | 5361883 | Dual Enrollment World Civ. 101 |
 | 5361884 | Broadcast Journalism |
 | 5361885 | Bible 11 |
 | 5361886 | Studio Art II |
-| 5361887 | Spanish I |
+| 5361887 | Algebra II |
 | 5361888 | Speech Communications |
 | 5361889 | Bible 11 |
 | 5361890 | Studio Art II |
@@ -334,15 +334,15 @@ This view shows all students assigned to each block.
 | 5361893 | Drawing and Painting |
 | 5361895 | American Literature |
 | 5361896 | American Literature |
-| 5361897 | Study Hall |
+| 5361897 | American Literature Honors |
 | 5361898 | Trig/Pre-Calculus Hon |
 | 5361899 | American Literature |
 | 5361900 | Bible 11 |
 | 5361901 | Physical Education - High  |
 | 5361902 | Faith & Film |
-| 5361903 | Trig/Algebra III |
+| 5361903 | Spanish II |
 | 5361904 | Spanish II |
-| 5361905 | Spanish III |
+| 5361905 | Anatomy & Physiology |
 | 5361906 | Anatomy & Physiology |
 | 5361907 | Dual Enrollment English 151 |
 | 5361908 | Bible 12 |
@@ -363,8 +363,8 @@ This view shows all students assigned to each block.
 | 5361924 | Dual Enrollment Intro. to Teaching 201 |
 | 5361925 | Contemporary Issues |
 | 5361926 | Bible 12 |
-| 5361927 | Spanish III |
-| 5361928 | Introduction to Business |
+| 5361927 | Dual Enrollment English 151 |
+| 5361928 | Dual Enrollment English 151 |
 | 5361929 | Advanced Robotics |
 | 5361930 | Bible 12 |
 | 5361932 | Personal Fitness |
@@ -394,7 +394,7 @@ This view shows all students assigned to each block.
 | 5407561 | Trig/PreCalculus |
 | 5407564 | Chemistry Honors |
 | 5407584 | Bible 9 |
-| 5407593 | Trig/Pre-Calculus Hon |
+| 5407593 | American Literature Honors |
 | 5409913 | Graphic Design |
 | 5424569 | American Literature Honors |
 | 5424570 | Graphic Design |
@@ -416,15 +416,15 @@ This view shows all students assigned to each block.
 | 5361799 | English 9 |
 | 5361801 | Graphic Design |
 | 5361802 | Bible 9 |
-| 5361803 | Algebra 1 |
+| 5361803 | Biology |
 | 5361804 | Geometry Honors |
 | 5361805 | Biology |
-| 5361806 | Algebra 1 Honors |
+| 5361806 | Bible 9 |
 | 5361807 | English 9 |
-| 5361808 | US History |
+| 5361808 | Bible 9 |
 | 5361810 | Spanish I |
 | 5361811 | Biology Honors |
-| 5361813 | Graphic Design |
+| 5361813 | US History |
 | 5361814 | Health - High  |
 | 5361816 | Physical Education - High  |
 | 5361817 | US History |
@@ -432,7 +432,7 @@ This view shows all students assigned to each block.
 | 5361819 | US History |
 | 5361820 | Biology |
 | 5361821 | Geometry |
-| 5361822 | Health - High  |
+| 5361822 | Spanish I |
 | 5361825 | US History |
 | 5361827 | Bible 10 |
 | 5361828 | Digital Imaging & Editing |
@@ -458,7 +458,7 @@ This view shows all students assigned to each block.
 | 5361858 | American Government & Politics Honors |
 | 5361859 | English 10 Honors |
 | 5361862 | Drawing and Painting |
-| 5361863 | Studio Art I |
+| 5361863 | English 10 |
 | 5361864 | American Government & Politics |
 | 5361865 | Spanish I |
 | 5361867 | Spanish II |
@@ -468,18 +468,18 @@ This view shows all students assigned to each block.
 | 5361871 | Health - High  |
 | 5361872 | Spanish II |
 | 5361873 | Drawing and Painting |
-| 5361874 | Dual Enrollment World Civ. 101 |
+| 5361874 | Algebra II |
 | 5361877 | Study Hall |
 | 5361878 | Studio Art II |
 | 5361879 | Dual Enrollment English 101 |
-| 5361880 | American Literature |
+| 5361880 | Trig/Pre-Calculus Hon |
 | 5361881 | Bible 11 |
 | 5361882 | Studio Art II |
 | 5361883 | Physics Honors |
 | 5361884 | Bible 11 |
 | 5361885 | Geometry Honors |
 | 5361886 | American Literature |
-| 5361887 | Dual Enrollment World Civ. 101 |
+| 5361887 | American Literature Honors |
 | 5361888 | Marine Biology |
 | 5361889 | Spanish II |
 | 5361890 | Personal Fitness |
@@ -526,7 +526,7 @@ This view shows all students assigned to each block.
 | 5361935 | Bible 12 |
 | 5361936 | Bible 12 |
 | 5361937 | Study Hall |
-| 5407480 | American Literature Honors |
+| 5407480 | Digital Imaging & Editing |
 | 5407481 | Graphic Design |
 | 5407488 | Bible 10 |
 | 5407494 | Bible 10 |
@@ -574,16 +574,16 @@ This view shows all students assigned to each block.
 | 5361806 | US History |
 | 5361807 | Physical Education - High  |
 | 5361808 | English 9 Honors |
-| 5361810 | Algebra 1 Honors |
+| 5361810 | English 9 Honors |
 | 5361813 | Bible 9 |
 | 5361814 | Spanish I |
 | 5361816 | Biology Honors |
 | 5361817 | Biology |
 | 5361818 | Biology Honors |
 | 5361819 | English 9 |
-| 5361820 | Algebra 1 |
+| 5361820 | Spanish I |
 | 5361821 | English 9 Honors |
-| 5361822 | English 9 Honors |
+| 5361822 | Health - High  |
 | 5361825 | Physical Education - High  |
 | 5361827 | English 10 |
 | 5361828 | American Government & Politics |
@@ -608,7 +608,7 @@ This view shows all students assigned to each block.
 | 5361858 | Chorus - High  |
 | 5361859 | Alg II Honors |
 | 5361862 | Earth and Space Science |
-| 5361863 | English 10 |
+| 5361863 | American Government & Politics |
 | 5361864 | English 10 |
 | 5361865 | Earth and Space Science |
 | 5361867 | Alg II Honors |
@@ -619,6 +619,7 @@ This view shows all students assigned to each block.
 | 5361872 | American Literature Honors |
 | 5361873 | Anatomy & Physiology |
 | 5361874 | American Literature Honors |
+| 5361876 | Trig/Pre-Calculus Hon |
 | 5361877 | Bible 11 |
 | 5361878 | Bible 11 |
 | 5361879 | Financial Literacy |
@@ -639,19 +640,19 @@ This view shows all students assigned to each block.
 | 5361895 | Health - High  |
 | 5361896 | Chemistry Honors |
 | 5361897 | Bible 11 |
-| 5361898 | Dual Enrollment World Civ. 101 |
+| 5361898 | Chemistry Honors |
 | 5361899 | Physical Science |
 | 5361900 | Drawing and Painting |
 | 5361901 | Bible 11 |
 | 5361902 | Chemistry Honors |
-| 5361903 | Bible 11 |
-| 5361904 | American Literature |
+| 5361903 | Trig/Algebra III |
+| 5361904 | World History |
 | 5361905 | Bible 11 |
-| 5361906 | Contemporary Issues |
+| 5361906 | Dual Enrollment English 151 |
 | 5361908 | World Literature |
 | 5361909 | Trig/Algebra III |
-| 5361910 | Executive Internship I |
-| 5361911 | Dual Enrollment World Civ. 101 |
+| 5361910 | Trig/Pre-Calculus Hon |
+| 5361911 | Dual Enrollment World Civ. 151 |
 | 5361912 | Study Hall |
 | 5361913 | Dual Enrollment English 151 |
 | 5361914 | Trig/PreCalculus |
@@ -685,15 +686,15 @@ This view shows all students assigned to each block.
 | 5407499 | Spanish II |
 | 5407500 | Chemistry Honors |
 | 5407506 | Anatomy & Physiology |
-| 5407517 | Band - High  |
+| 5407517 | Bible 10 |
 | 5407518 | English 10 |
 | 5407519 | Broadcast Journalism |
 | 5407520 | Graphic Design |
 | 5407527 | Executive Internship I |
 | 5407543 | American Government & Politics |
 | 5407554 | Chorus - High  |
-| 5407556 | American Literature Honors |
-| 5407560 | Geometry Honors |
+| 5407556 | Graphic Design |
+| 5407560 | American Government & Politics |
 | 5407561 | Modern America |
 | 5407564 | Chorus - High  |
 | 5407584 | English 9 |
@@ -724,18 +725,18 @@ This view shows all students assigned to each block.
 | 5361802 | US History |
 | 5361803 | Bible 9 |
 | 5361804 | US History |
-| 5361806 | Studio Art II |
+| 5361806 | Studio Art I |
 | 5361807 | Biology |
-| 5361808 | Geometry Honors |
-| 5361810 | US History |
+| 5361808 | US History |
+| 5361810 | Bible 9 |
 | 5361811 | Geometry Honors |
 | 5361813 | Physical Education - High  |
 | 5361814 | US History |
 | 5361816 | Geometry Honors |
 | 5361817 | Bible 9 |
 | 5361818 | Bible 9 |
-| 5361819 | Geometry Honors |
-| 5361820 | Spanish I |
+| 5361819 | Physical Education - High  |
+| 5361820 | Bible 9 |
 | 5361822 | Physical Education - High  |
 | 5361825 | Bible 9 |
 | 5361827 | American Government & Politics |
@@ -772,8 +773,8 @@ This view shows all students assigned to each block.
 | 5361871 | English 10 |
 | 5361872 | Band - High  |
 | 5361873 | Bible 11 |
-| 5361874 | Spanish III |
-| 5361877 | Dual Enrollment World Civ. 101 |
+| 5361874 | Marine Biology |
+| 5361877 | Health - High  |
 | 5361878 | World History |
 | 5361879 | Band - High  |
 | 5361880 | Bible 11 |
@@ -783,30 +784,30 @@ This view shows all students assigned to each block.
 | 5361884 | World History |
 | 5361885 | Marine Biology |
 | 5361886 | Bible 11 |
-| 5361887 | Algebra II |
+| 5361887 | Physics Honors |
 | 5361888 | Bible 11 |
 | 5361889 | World History |
-| 5361890 | Bible 11 |
+| 5361890 | American Literature |
 | 5361891 | Financial Literacy |
 | 5361892 | Introduction to Business |
 | 5361893 | Algebra II |
 | 5361895 | Bible 11 |
 | 5361896 | World History |
-| 5361897 | Earth and Space Science |
-| 5361898 | Drawing and Painting |
+| 5361897 | Dual Enrollment World Civ. 151 |
+| 5361898 | Dual Enrollment World Civ. 101 |
 | 5361899 | World History |
 | 5361900 | Faith & Film |
 | 5361901 | Spanish II |
 | 5361902 | American Literature |
-| 5361903 | American Literature Honors |
-| 5361904 | Physical Science |
+| 5361903 | Bible 11 |
+| 5361904 | American Literature |
 | 5361905 | Marine Biology |
-| 5361906 | Dual Enrollment English 151 |
+| 5361906 | Dual Enrollment Intro. to Psych. 101 |
 | 5361908 | Executive Internship II |
-| 5361909 | Spanish III |
+| 5361909 | Digital Imaging & Editing |
 | 5361910 | Study Hall |
 | 5361911 | Anatomy & Physiology |
-| 5361912 | Dual Enrollment Intro. to Psych. 101 |
+| 5361912 | Dual Enrollment World Civ. 151 |
 | 5361913 | Statistics Honors |
 | 5361914 | Study Hall |
 | 5361915 | Digital Imaging & Editing |
@@ -822,7 +823,7 @@ This view shows all students assigned to each block.
 | 5361927 | Drawing and Painting |
 | 5361928 | Bible 12 |
 | 5361929 | Trig/Algebra III |
-| 5361930 | Contemporary Issues |
+| 5361930 | AP Calculus A/B |
 | 5361932 | Graphic Design |
 | 5361933 | Bible 12 |
 | 5361934 | AP Computer Science |
@@ -830,7 +831,7 @@ This view shows all students assigned to each block.
 | 5361936 | World Literature |
 | 5361937 | World Literature |
 | 5407480 | Dual Enrollment World Civ. 101 |
-| 5407481 | Biology |
+| 5407481 | Health - High  |
 | 5407488 | English 10 Honors |
 | 5407494 | Alg II Honors |
 | 5407497 | Alg II Honors |
@@ -841,7 +842,7 @@ This view shows all students assigned to each block.
 | 5407517 | Algebra II |
 | 5407518 | Advanced Robotics |
 | 5407519 | American Government & Politics |
-| 5407520 | Geometry Honors |
+| 5407520 | Digital Imaging & Editing |
 | 5407527 | Executive Internship II |
 | 5407543 | English 10 |
 | 5407554 | Bible 10 |
@@ -850,7 +851,7 @@ This view shows all students assigned to each block.
 | 5407561 | World History |
 | 5407564 | Dual Enrollment English 151 |
 | 5407584 | Physical Education - High  |
-| 5407593 | American Literature Honors |
+| 5407593 | Trig/Pre-Calculus Hon |
 | 5409913 | World History |
 | 5419610 | Bible 12 |
 | 5424569 | Bible 11 |
@@ -874,9 +875,9 @@ This view shows all students assigned to each block.
 | 5361802 | Geometry Honors |
 | 5361803 | Graphic Design |
 | 5361804 | Health - High  |
-| 5361806 | Studio Art I |
+| 5361806 | Spanish I |
 | 5361807 | Spanish I |
-| 5361808 | Biology Honors |
+| 5361808 | Physical Education - High  |
 | 5361809 | Bible 9 |
 | 5361810 | Biology |
 | 5361812 | Geometry Honors |
@@ -916,49 +917,48 @@ This view shows all students assigned to each block.
 | 5361863 | Earth and Space Science |
 | 5361864 | Bible 10 |
 | 5361865 | Band - High  |
-| 5361867 | Chemistry Honors |
+| 5361867 | Band - High  |
 | 5361868 | English 10 Honors |
 | 5361869 | Spanish II |
 | 5361870 | Band - High  |
 | 5361871 | Chemistry Honors |
 | 5361872 | Algebra II |
 | 5361873 | Marine Biology |
-| 5361874 | Marine Biology |
-| 5361876 | Trig/Pre-Calculus Hon |
-| 5361877 | Trig/Pre-Calculus Hon |
-| 5361878 | Spanish II |
-| 5361879 | American Literature Honors |
-| 5361880 | Anatomy & Physiology |
+| 5361874 | Dual Enrollment World Civ. 101 |
+| 5361877 | Physics Honors |
+| 5361878 | Algebra II |
+| 5361879 | Dual Enrollment World Civ. 151 |
+| 5361880 | American Literature |
 | 5361881 | Financial Literacy |
 | 5361882 | Studio Art I |
 | 5361883 | Bible 11 |
 | 5361884 | Algebra II |
 | 5361885 | Graphic Design |
 | 5361886 | Marine Biology |
-| 5361887 | American Literature Honors |
+| 5361887 | Spanish I |
 | 5361888 | American Literature |
 | 5361889 | Faith & Film |
-| 5361890 | Studio Art I |
+| 5361890 | Bible 11 |
 | 5361891 | Bible 11 |
 | 5361892 | Chorus - High  |
 | 5361893 | American Literature |
 | 5361895 | Physical Education - High  |
 | 5361896 | Graphic Design |
-| 5361897 | Trig/Pre-Calculus Hon |
+| 5361897 | Study Hall |
 | 5361898 | Bible 11 |
 | 5361899 | Graphic Design |
 | 5361900 | World History |
 | 5361901 | Algebra II |
 | 5361902 | Spanish III |
 | 5361903 | Physical Education - High  |
-| 5361904 | World History |
+| 5361904 | Physical Science |
 | 5361905 | Studio Art II |
-| 5361906 | Dual Enrollment Intro. to Psych. 101 |
+| 5361906 | Chorus - High  |
 | 5361908 | Personal Fitness |
 | 5361909 | Bible 12 |
-| 5361910 | Trig/Pre-Calculus Hon |
-| 5361911 | Yearbook |
-| 5361912 | Speech Communications |
+| 5361910 | Dual Enrollment Biology 101 |
+| 5361911 | Dual Enrollment World Civ. 101 |
+| 5361912 | Dual Enrollment Intro. to Psych. 101 |
 | 5361913 | Spanish III |
 | 5361914 | Dual Enrollment English 151 |
 | 5361915 | Executive Internship II |
@@ -971,7 +971,7 @@ This view shows all students assigned to each block.
 | 5361924 | Financial Literacy |
 | 5361925 | Dual Enrollment English 151 |
 | 5361926 | Yearbook |
-| 5361927 | Dual Enrollment English 151 |
+| 5361927 | Health - High  |
 | 5361928 | Graphic Design |
 | 5361929 | World Literature |
 | 5361930 | Recreational Sports |
@@ -982,7 +982,7 @@ This view shows all students assigned to each block.
 | 5361936 | Drawing and Painting |
 | 5361937 | Graphic Design |
 | 5407480 | Bible 11 |
-| 5407481 | Algebra 1 Honors |
+| 5407481 | Physical Education - High  |
 | 5407488 | Spanish III |
 | 5407494 | Biology |
 | 5407497 | Bible 10 |
@@ -990,7 +990,7 @@ This view shows all students assigned to each block.
 | 5407499 | Drawing and Painting |
 | 5407500 | Bible 11 |
 | 5407506 | Executive Internship II |
-| 5407517 | English 10 Honors |
+| 5407517 | Band - High  |
 | 5407518 | American Government & Politics |
 | 5407519 | Drawing and Painting |
 | 5407520 | Spanish I |
@@ -1000,7 +1000,7 @@ This view shows all students assigned to each block.
 | 5407556 | Alg II Honors |
 | 5407560 | English 10 |
 | 5407561 | American Literature |
-| 5407564 | Bible 12 |
+| 5407564 | World Literature Honors |
 | 5407584 | Health - High  |
 | 5407593 | Financial Literacy |
 | 5409913 | Biology |
@@ -1030,10 +1030,10 @@ This view shows all students assigned to each block.
 | 5361805 | Geometry Honors |
 | 5361806 | English 9 Honors |
 | 5361807 | Bible 9 |
-| 5361808 | Physical Education - High  |
-| 5361810 | Bible 9 |
+| 5361808 | Health - High  |
+| 5361810 | Health - High  |
 | 5361812 | Biology Honors |
-| 5361813 | US History |
+| 5361813 | Health - High  |
 | 5361814 | Algebra 1 |
 | 5361816 | Health - High  |
 | 5361817 | English 9 |
@@ -1042,7 +1042,7 @@ This view shows all students assigned to each block.
 | 5361820 | English 9 |
 | 5361821 | Biology |
 | 5361822 | Biology Honors |
-| 5361825 | English 9 Honors |
+| 5361825 | Geometry Honors |
 | 5361827 | Earth and Space Science |
 | 5361828 | Bible 10 |
 | 5361830 | English 10 |
@@ -1076,18 +1076,18 @@ This view shows all students assigned to each block.
 | 5361870 | English 10 Honors |
 | 5361871 | American Government & Politics |
 | 5361872 | Chemistry Honors |
-| 5361873 | American Literature Honors |
+| 5361873 | Dual Enrollment World Civ. 101 |
 | 5361874 | Bible 11 |
-| 5361877 | Financial Literacy |
+| 5361877 | Dual Enrollment World Civ. 101 |
 | 5361878 | American Literature |
 | 5361879 | Dual Enrollment World Civ. 101 |
-| 5361880 | Trig/Pre-Calculus Hon |
+| 5361880 | Anatomy & Physiology |
 | 5361881 | Trig/PreCalculus |
 | 5361882 | Bible 11 |
 | 5361883 | Studio Art II |
 | 5361884 | American Literature |
 | 5361885 | Dual Enrollment World Civ. 101 |
-| 5361886 | Studio Art I |
+| 5361886 | Trig/PreCalculus |
 | 5361887 | Band - High  |
 | 5361888 | Anatomy & Physiology |
 | 5361889 | American Literature |
@@ -1097,8 +1097,8 @@ This view shows all students assigned to each block.
 | 5361893 | Spanish II |
 | 5361895 | Physical Science |
 | 5361896 | Spanish II |
-| 5361897 | American Literature Honors |
-| 5361898 | Chemistry Honors |
+| 5361897 | Earth and Space Science |
+| 5361898 | Spanish III |
 | 5361899 | Financial Literacy |
 | 5361900 | Financial Literacy |
 | 5361901 | American Literature |
@@ -1111,8 +1111,8 @@ This view shows all students assigned to each block.
 | 5361908 | Trig/PreCalculus |
 | 5361909 | Study Hall |
 | 5361910 | Bible 12 |
-| 5361911 | Dual Enrollment World Civ. 151 |
-| 5361912 | Dual Enrollment World Civ. 151 |
+| 5361911 | Dual Enrollment English 151 |
+| 5361912 | Dual Enrollment World Civ. 101 |
 | 5361913 | Modern America |
 | 5361914 | Bible 12 |
 | 5361915 | World Literature |
@@ -1129,7 +1129,7 @@ This view shows all students assigned to each block.
 | 5361927 | Study Hall |
 | 5361928 | Study Hall |
 | 5361929 | Bible 12 |
-| 5361930 | AP Calculus A/B |
+| 5361930 | Personal Fitness |
 | 5361932 | Recreational Sports |
 | 5361933 | Drawing and Painting |
 | 5361934 | Bible 12 |
@@ -1152,16 +1152,16 @@ This view shows all students assigned to each block.
 | 5407527 | Study Hall (Semester) |
 | 5407543 | Algebra II |
 | 5407554 | Geometry |
-| 5407556 | Graphic Design |
+| 5407556 | Chemistry Honors |
 | 5407560 | Graphic Design |
 | 5407561 | Physical Science |
-| 5407564 | World Literature Honors |
+| 5407564 | US History |
 | 5407584 | Algebra 1 |
 | 5407590 | Biology Honors |
 | 5407593 | Chorus - High  |
 | 5409913 | Financial Literacy |
 | 5424569 | American Government & Politics |
-| 5424570 | Geometry Honors |
+| 5424570 | Spanish I |
 | 5432621 | Biology Honors |
 | 5434946 | Geometry |
 | 5439293 | Bible 9 |
@@ -1170,47 +1170,74 @@ This view shows all students assigned to each block.
 | 5642283 | Studio Art I |
 
 
-## Teachers Block-wise View
+## Teacher Schedules I Created
 
-This view shows all teachers assigned to each block.
+Here I've listed all teachers and their assigned blocks with student counts:
 
-### Block 1A
+### Teacher T_154
 
-| Teacher ID | Course | Number of Students |
-|------------|--------|-------------------|
+| Block | Course | Number of Students |
+|-------|--------|-------------------|
+| 1A | Band - High  | 4 |
+| 1B | Band - High  | 3 |
+| 2A | Band - High  | 1 |
+| 2B | Band - High  | 2 |
+| 3 | Band - High  | 2 |
+| 4A | Band - High  | 5 |
+| 4B | Band - High  | 2 |
 
-### Block 1B
+### Teacher T_804
 
-| Teacher ID | Course | Number of Students |
-|------------|--------|-------------------|
+| Block | Course | Number of Students |
+|-------|--------|-------------------|
+| 1A | Chorus - High  | 3 |
+| 1B | Chorus - High  | 1 |
+| 2A | Chorus - High  | 1 |
+| 2B | Chorus - High  | 4 |
+| 3 | Chorus - High  | 1 |
+| 4A | Chorus - High  | 3 |
+| 4B | Chorus - High  | 3 |
 
-### Block 2A
+### Teacher T_367
 
-| Teacher ID | Course | Number of Students |
-|------------|--------|-------------------|
+| Block | Course | Number of Students |
+|-------|--------|-------------------|
+| 1A | Drawing and Painting | 4 |
+| 1B | Drawing and Painting | 1 |
+| 2A | Drawing and Painting | 2 |
+| 2B | Drawing and Painting | 2 |
+| 3 | Drawing and Painting | 3 |
+| 4A | Drawing and Painting | 6 |
+| 4B | Drawing and Painting | 1 |
 
-### Block 2B
+### Teacher T_753
 
-| Teacher ID | Course | Number of Students |
-|------------|--------|-------------------|
+| Block | Course | Number of Students |
+|-------|--------|-------------------|
+| 1A | American Literature Honors | 2 |
+| 1B | American Literature Honors | 5 |
+| 2A | American Literature Honors | 1 |
+| 2B | American Literature Honors | 3 |
+| 3 | Studio Art I | 1 |
+| 4A | Studio Art I | 1 |
+| 4B | Studio Art I | 2 |
 
-### Block 3
+### Teacher T_569
 
-| Teacher ID | Course | Number of Students |
-|------------|--------|-------------------|
-
-### Block 4A
-
-| Teacher ID | Course | Number of Students |
-|------------|--------|-------------------|
-
-### Block 4B
-
-| Teacher ID | Course | Number of Students |
-|------------|--------|-------------------|
+| Block | Course | Number of Students |
+|-------|--------|-------------------|
+| 1A | Free | 0 |
+| 1B | Studio Art II | 3 |
+| 2A | Studio Art II | 3 |
+| 2B | Studio Art II | 1 |
+| 3 | Studio Art II | 1 |
+| 4A | Studio Art II | 1 |
+| 4B | Studio Art II | 1 |
 
 
 ## Sample Individual Student Schedules
+
+Here are some sample student schedules I created:
 
 ### Student 5407488
 
@@ -1252,8 +1279,8 @@ This view shows all teachers assigned to each block.
 
 | Block | Course |
 |-------|--------|
-| 1A | Dual Enrollment World Civ. 101 |
-| 1B | American Literature Honors |
+| 1A | Spanish III |
+| 1B | Dual Enrollment World Civ. 101 |
 | 2A | Studio Art II |
 | 2B | Anatomy & Physiology |
 | 3 | Marine Biology |
@@ -1271,7 +1298,3 @@ This view shows all teachers assigned to each block.
 | 3 | Executive Internship I |
 | 4A | Financial Literacy |
 | 4B | Dual Enrollment Biology 101 |
-
-
-## Sample Individual Teacher Schedules
-

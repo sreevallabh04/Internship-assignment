@@ -163,12 +163,24 @@ class CourseScheduler:
                             block in course_blocks.get(course1, self.time_blocks) and 
                             block in course_blocks.get(course2, self.time_blocks)):
                             # They cannot both have students assigned in the same block
+                            # Use a binary variable to enforce that at least one of them must be 0
+                            z = pulp.LpVariable(f"z_{teacher}_{block}_{course1}_{course2}", cat=pulp.LpBinary)
+                            
+                            # Define constants for the maximum number of students in a course
+                            M1 = room_capacities.get(course1, 30)
+                            M2 = room_capacities.get(course2, 30)
+                            
+                            # Get the student sums for each course
                             c1_students = pulp.lpSum([x[(student, course1, block)] for student in students 
                                                      if course1 in [c for p in student_requests[student].values() for c in p]])
                             c2_students = pulp.lpSum([x[(student, course2, block)] for student in students 
                                                      if course2 in [c for p in student_requests[student].values() for c in p]])
-                            model += c1_students * c2_students == 0, \
-                                     f"Teacher_{teacher}_Block_{block}_Courses_{course1}_{course2}_Constraint"
+                            
+                            # If z = 1, c1_students must be 0; if z = 0, c2_students must be 0
+                            model += c1_students <= M1 * (1 - z), \
+                                     f"Teacher_{teacher}_Block_{block}_Courses_{course1}_Constraint"
+                            model += c2_students <= M2 * z, \
+                                     f"Teacher_{teacher}_Block_{block}_Courses_{course2}_Constraint"
         
         # Solve the model
         print("Solving the optimization model...")
@@ -546,6 +558,17 @@ class CourseScheduler:
             print(f"Number of course-teacher mappings: {len(course_teachers)}")
             if course_teachers:
                 print(f"Sample course-teacher mappings: {list(course_teachers.items())[:5]}")
+        
+        # Ensure teacher_schedules is serializable to JSON
+        # Convert defaultdict to regular dict
+        serializable_schedules = {}
+        for teacher_id, blocks in self.teacher_schedules.items():
+            serializable_schedules[teacher_id] = {}
+            for block, courses in blocks.items():
+                serializable_schedules[teacher_id][block] = courses
+        
+        # Replace the defaultdict with the serializable dict
+        self.teacher_schedules = serializable_schedules
     
     def _print_stats(self):
         """Print scheduling statistics."""
