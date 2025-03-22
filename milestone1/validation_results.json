@@ -1,0 +1,12 @@
+{
+  "errors": [],
+  "warnings": [],
+  "insights": [
+    "Available time blocks: ['1A', '1B', '2A', '2B', '3', '4A', '4B']",
+    "Total number of courses: 75",
+    "Total number of lecturers: 83",
+    "Total number of rooms: 88",
+    "Total room capacity: 0",
+    "Total number of student requests: 1259"
+  ]
+}
